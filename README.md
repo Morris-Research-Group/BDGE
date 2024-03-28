@@ -53,5 +53,9 @@ In Figure S12 and S13 we explore the analytical Bayesian framework using synthet
 # File by file
 [do_DGE.ipynb] is a notebook doing all Differential Gene Expression analysis discussed in the paper. For running DESeq2 and edgeR we are calling R scripts (e.g. 'Do_DGE-DESeq2.R') to carry out the analysis. This is where the parameters for the packages are set. 
 
+For bootstrapping experiments we created 100 shuffled data sets consisting of 3, 6, 12, and 20 replicates of the pool of 44/42 which we used for package comparison. This was done in [comparison_data.ipynb].
+
+
+
 
 All code is written in Python 3.10.6, the conda environment export can be found in [environment.yml].
