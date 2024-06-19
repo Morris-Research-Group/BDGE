@@ -1,4 +1,22 @@
-There are 2 papers related to the work in this repository, here is a description what to find where from which paper. 
+There are several manuscripts in preparation related to the work in this repository, here is a description what to find where from which paper. 
+
+-----------------------------
+
+### All code and data used for 
+
+## Closed Form Solution for the 2-Sample Problem in Differential Gene Expression Analysis
+
+by 
+
+Franziska Hoerbst, Gurpinder Singh Sidhu, Melissa Tomkins, and Richard J. Morris
+
+# Using bayexpress
+All basic functions to use our Bayesian framework for differential gene expression analysis can be found in [bayexpress_function.py](bayexpress_function.py).
+
+
+### Figure 3
+In Figure 3 we explore the analytical Bayesian framework using synthetic data. All plots from the paper (and more) can be found in [SIM.ipynb](SIM.ipynb).
+
 
 -----------------------------
 
